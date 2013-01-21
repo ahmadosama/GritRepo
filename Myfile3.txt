@@ -1,2 +1,3 @@
-first write to my 3rd file
-2nd write to 3rd file
+first write
+2nd write 
+3rd write 
